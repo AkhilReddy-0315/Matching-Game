@@ -1,0 +1,17 @@
+.category-head {
+  margin-right: 20px;
+  color: #fff;
+  font-family: Roboto;
+}
+
+.category-btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.present {
+  color: #fec653;
+  text-decoration: underline;
+}
